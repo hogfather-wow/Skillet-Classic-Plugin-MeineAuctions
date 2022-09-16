@@ -1,0 +1,13 @@
+## Interface: 30400
+## Title: Skillet MeineAuctions plugin
+## Notes: Meine Auctions integration to Skillet.
+## Author: Undaare
+## Version: 0.0.1
+## Dependencies: Skillet-Classic
+## OptionalDeps: MeineAuctions
+
+## LoadManagers: AddonLoader
+## X-LoadOn-Always: delayed
+
+#### Main files
+Skillet-Classic-Plugin-MeineAuctions.lua
